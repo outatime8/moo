@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x56639072bE3598a61087F405B1627A112D48c82f",
+  "SCAN_LINK": "https://polygonscan.com/address/0x56639072bE3598a61087F405B1627A112D48c82f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MOO ORIGINALS",
+  "SYMBOL": "MOO",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/moo-originals",
+  "SHOW_BACKGROUND": true
+}
